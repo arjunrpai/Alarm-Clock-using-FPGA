@@ -1,6 +1,6 @@
-# Verilog Digital Alarm Clock
 
-##  Project Overview
+
+##  Introduction
 This project implements a **24-hour digital clock with alarm functionality** using **Verilog HDL**.  
 It provides **7 output signals**: hour, minute, second digits, and an alarm signal.  
 The clock can be initialized to a specific time and alarm can be set or disabled.  
